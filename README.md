@@ -26,7 +26,7 @@
 <h4>Definir a key da aplicação</h4>
 <p> <strong><i> php artisan key:generate </i></strong> </p>
 <h4>Gere as migrations com as seeds</h4>
-<p> <strong><i> php artisan migrate:refresh --seed </i></strong> </p>
+<p> <strong><i> php artisan migrate --seed </i></strong> </p>
 
 <h2>Acessando o sistema</h2>
 <h4>Usuário e senha</h4>
